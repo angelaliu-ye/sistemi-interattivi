@@ -1,0 +1,11 @@
+img,video{
+  max-width:90%;
+  border-radius:10px;
+}
+
+button{
+  background:red;
+  color:white;
+  border:none;
+  border-radius:8px;
+}
